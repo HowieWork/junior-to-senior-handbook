@@ -56,6 +56,8 @@ PicResize: One of several good browser-based tools that gives you lots of option
 
 Gimp: This ever-popular cross-platform tool just gets better with age. Powerful and flexible, Gimp lets you perform a wide variety of image manipulation tasks including, of course, resizing.
 
+[Prefetching, preloading, prebrowsing](https://css-tricks.com/prefetching-preloading-prebrowsing/)
+
 HTTP/2 https://developers.google.com/web/fundamentals/performance/http2/
 
 ### TBD
